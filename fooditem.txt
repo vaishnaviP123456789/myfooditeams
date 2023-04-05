@@ -1,0 +1,11 @@
+iteam name,price
+chicken rice,120
+egg biriyani,90
+Prawn biriyani,180
+Crad curry,200
+Chicken soup,150
+Noobles,110
+Frinch fries,60
+Nugeds,130
+Roll,20
+Samosa,10
